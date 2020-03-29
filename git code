@@ -1,0 +1,10 @@
+git status
+git init
+git add .
+git commit -m "Local change"
+git remote add origin https://github.com/ratkhohieu/test.git
+git push origin master
+
+
+
+git reset --hard
